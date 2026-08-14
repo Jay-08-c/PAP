@@ -7,7 +7,6 @@ int population;
 printf("Municipal Financial Management System\n\n"); 
 printf("Enter Municipality Name: "); 
 scanf("%49s", municipality); 
-Page 12 of 14 
 printf("Enter Mayor: "); 
 scanf("%49s", mayor); 
 printf("Enter Population: "); 
